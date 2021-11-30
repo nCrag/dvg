@@ -1,5 +1,4 @@
-# hello-world
+# DVG
 first repository
 
-Here will be my pythons projects
-Also I will be in open source project FBW
+Here will be my blog project in Django Vue GraphQL
